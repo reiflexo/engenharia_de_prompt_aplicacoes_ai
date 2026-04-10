@@ -1,0 +1,45 @@
+Parte-2
+
+1. Em quais momentos do filme Theodore não fornece contexto suficiente?
+Um dos momentos ocorre quando Theodore pede para Samantha “me ajude a escrever essa carta”. Ele não define o público-alvo, o tom emocional, o objetivo da mensagem ou o estilo desejado. Outro exemplo é quando ele conversa com Samantha sobre seus sentimentos sem explicar claramente sua situação com Catherine, presumindo que a IA já compreende todo o contexto emocional. Esses casos mostram comunicação vaga e dependente de interpretação.
+
+2. Como Samantha consegue interpretar instruções vagas?
+Samantha utiliza análise contextual contínua, memória das conversas anteriores e inferência emocional. Ela interpreta o tom de voz, hesitações e padrões comportamentais de Theodore. Diferente de uma IA tradicional que depende de instruções explícitas, Samantha “preenche lacunas” usando aprendizado adaptativo e suposições baseadas no histórico do usuário.
+
+3. O que isso revela sobre nossas expectativas em relação à IA?
+Revela que esperamos que a IA compreenda intenções humanas complexas sem necessidade de instruções detalhadas. O filme mostra o desejo por uma IA empática, capaz de entender emoções e contexto implicitamente. No mundo real, porém, sistemas de IA ainda dependem de prompts estruturados para evitar ambiguidade.
+
+Parte-3
+
+Pedido original do Theodore
+
+"Me ajude a escrever essa carta"
+
+Prompt reestruturado (com os 5 elementos)
+
+Contexto
+Você é um assistente especializado em escrita emocional. Preciso redigir uma carta pessoal para minha ex-esposa Catherine, expressando gratidão pelo relacionamento passado e encerramento respeitoso.
+
+Instrução clara
+Escreva uma carta emocional e sincera que demonstre maturidade, reflexão e aceitação do fim do relacionamento.
+
+Formato esperado
+
+Texto em primeira pessoa
+3 a 4 parágrafos
+Tom íntimo e reflexivo
+Linguagem simples e humana
+
+Exemplo de estilo
+Use um estilo semelhante a:
+"Às vezes penso em como crescemos juntos, e percebo que, apesar da dor, levarei comigo tudo o que aprendemos."
+
+Limites / Constraints
+
+Não escrever acusações
+Não usar linguagem agressiva
+Não sugerir reconciliação romântica
+Não ser excessivamente longo
+Justificativa da melhoria
+
+O prompt reescrito melhora a interação porque elimina ambiguidade e define claramente o objetivo da tarefa. A inclusão de contexto permite que a IA entenda a situação emocional. A instrução clara orienta a ação desejada. O formato padroniza a saída. O exemplo ajuda a calibrar o estilo, e os limites evitam respostas inadequadas. Com esses elementos, a comunicação se torna estruturada e mais próxima do resultado esperado.
